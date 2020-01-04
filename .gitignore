@@ -110,3 +110,9 @@ tmp
 *.swo
 /pyhanlp/static/*.java
 /pyhanlp/static/*.class
+
+python/
+data/
+local/
+config.ini
+logging_config.ini
